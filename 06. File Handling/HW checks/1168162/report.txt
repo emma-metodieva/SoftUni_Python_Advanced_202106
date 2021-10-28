@@ -1,0 +1,15 @@
+.css
+---test.css
+.html
+---test.html
+.json
+---test.json
+.py
+---Directory Traversal.py
+---Even Lines.py
+---File Manipulator.py
+---Line Numbers.py
+.txt
+---file.txt
+---input.txt
+---output.txt
